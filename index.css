@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    justify-content: center; 
+/* rows */
+    /* justify-content: space-evenly  */
+    /* justify-content: space-around */
+
+    /* flex-directon: columns */
+    /* border: 1px solid black; */
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+a:hover {
+    background: black;
+    color:white;
+}
