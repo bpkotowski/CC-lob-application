@@ -5,11 +5,13 @@ header {
 
  
 
-#about-section, #section-two {
+#about-section, #section-two, #last-section {
     border: 1px solid black;
     padding: 10px;
     margin-bottom: 20px;
     
 }
+
+
 
   
